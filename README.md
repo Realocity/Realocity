@@ -5,9 +5,9 @@
 ![Website](https://img.shields.io/website?down_color=orange&down_message=offline&label=Realocity&style=for-the-badge&up_color=black&up_message=online&url=https%3A%2F%2Frealocity.github.io)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Shubham29887441?color=blue&label=shubham%20sapkal&logo=twitter&style=for-the-badge)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
-## I'm a Computer Science Student, Learner, Developer, and Gamer! !<img src="https://github.com/Realocity/Realocity/raw/master/assets/wave.gif" width="30" height="30">
+## I'm a Computer Science Student, Learner, Developer, and Gamer!
 ```
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
