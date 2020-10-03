@@ -14,7 +14,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.2766e4fb-6a2d-49fe-b67b-20ad8e245b29 }}
-          GH_TOKEN: ${{ secrets.af73226206e060a8f6a172c38f6b2feec56e74d6 }}
+          GH_TOKEN: ${{ secrets.3016b5c30b9ee3efde134bd4ffe91fb08740f3da }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
