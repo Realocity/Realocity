@@ -40,7 +40,9 @@
 
 <a href="https://www.facebook.com/shubham.sapkal.7146/">
 <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
+
+<br>
 
 <a href="https://www.instagram.com/hashtag_shubham_sapkal/">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
