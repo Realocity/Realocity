@@ -4,6 +4,7 @@
 
 ![Website](https://img.shields.io/website?down_color=orange&down_message=offline&label=Realocity&style=for-the-badge&up_color=black&up_message=online&url=https%3A%2F%2Frealocity.github.io)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Shubham29887441?color=blue&label=shubham%20sapkal&logo=twitter&style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/realocity/Realocity?color=red&label=views&logo=ktm&style=for-the-badge)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
