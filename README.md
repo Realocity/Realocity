@@ -30,8 +30,8 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=Hi+There&to=ssapkal101@gmail.com&body=body+goes+here">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.instagram.com/hashtag_shubham_sapkal/">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://twitter.com/Shubham29887441">
@@ -44,8 +44,8 @@
 
 <br>
 
-<a href="https://www.instagram.com/hashtag_shubham_sapkal/">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=Hi+There&to=ssapkal101@gmail.com&body=body+goes+here">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="">
