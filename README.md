@@ -1,6 +1,6 @@
 ![til](https://media1.tenor.com/images/c07a0e54601516dbf8b399832636507a/tenor.gif?itemid=13765417)
 
-### Hi there, I'm SHUBHAM otherwise known as RAJVEER [Realocity][website] !<img src="https://github.com/Realocity/Realocity/raw/master/assets/wave.gif" width="30" height="30">
+### Hi there, I'm SHUBHAM otherwise known as RAJVEER !<img src="https://github.com/Realocity/Realocity/raw/master/assets/wave.gif" width="30" height="30"> [Realocity][website]
 
 ![Website](https://img.shields.io/website?down_color=orange&down_message=offline&label=Realocity&style=for-the-badge&up_color=black&up_message=online&url=https%3A%2F%2Frealocity.github.io)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Shubham29887441?color=blue&label=shubham%20sapkal&logo=twitter&style=for-the-badge)
