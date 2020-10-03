@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
-## I'm a Computer Science Student, Learner, Developer, and Gamer!
+## I'm a Computer Science Student, Learner, Developer, and Gamer! <img src="https://raw.githubusercontent.com/Realocity/Realocity/master/wave.gif" width="30px">
 ```
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
