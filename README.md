@@ -21,9 +21,8 @@
 - 📇 I enjoy working with others and reaching personal goals 😊
 ```
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="390" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="390" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+### Connect with me: 
 
 <p align='center'>
 
@@ -98,8 +97,8 @@
 <!--END_SECTION:waka-->
 
 ---
-
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
   
@@ -108,8 +107,8 @@
 
 
 <!--END_SECTION:activity-->
+</details>
 
----
 
 <details>
   <summary>:zap: Github Stats</summary>
