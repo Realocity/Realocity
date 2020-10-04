@@ -123,7 +123,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Realocity's Github Stats" src="https://github-readme-stats-tau-orcin-28.vercel.app//api?username=Realocity&show_icons=true&hide_border=true" />
+  <img align="left" alt="Realocity's Github Stats" src="github-readme-stats-blond-eta-32.vercel.app//api?username=Realocity&show_icons=true&hide_border=true" />
 
 </details>
 
