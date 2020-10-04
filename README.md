@@ -1,4 +1,4 @@
-<img align='center' src="https://media1.tenor.com/images/c07a0e54601516dbf8b399832636507a/tenor.gif?itemid=13765417" width='620'>
+<img align='center' src="https://media1.tenor.com/images/c07a0e54601516dbf8b399832636507a/tenor.gif?itemid=13765417" width='520'>
 
 ### Hi there, I'm SHUBHAM otherwise known as RAJVEER 🏄🏻‍♂️ [Realocity][website]
 
