@@ -90,26 +90,12 @@
 <br />
 <br />
 
----
+
 
 <!--START_SECTION:waka-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--END_SECTION:waka-->
----
+
 
 <details>
 
@@ -123,7 +109,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Realocity's Github Stats" src="github-readme-stats-blond-eta-32.vercel.app/api/api?username=Realocity&show_icons=true&hide_border=true" />
+  ![Realocity's github stats](https://github-readme-stats-blond-eta-32.vercel.app/api?username=Realocity&show_icons=true)
 
 </details>
 
