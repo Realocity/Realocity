@@ -127,6 +127,8 @@
 
 </details>
 
+[![willianrod's wakatime stats](https://github-readme-stats-blond-eta-32.vercel.app/api/wakatime?username=Realocity)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://realocity.github.io
 [twitter]: https://twitter.com/Shubham29887441
 [instagram]: https://www.instagram.com/hashtag_shubham_sapkal/
