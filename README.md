@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
-## I'm a Computer Science Student, Learner, Developer, and Gamer! 
+## I'm a Computer Science Student, Learner, Developer, and Gamer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ```
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
@@ -96,15 +96,19 @@
 
 <!--END_SECTION:waka-->
 
+---
 
-<details>
+### :zap: Recent Activity
 
-  <summary>:zap: Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
+  
 
 
 
-</details>
+  
+<!--END_SECTION:activity-->
+
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
