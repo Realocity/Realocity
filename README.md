@@ -123,15 +123,17 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Realocity's Github Stats" src="github-readme-stats-blond-eta-32.vercel.app//api?username=Realocity&show_icons=true&hide_border=true" />
+  <img align="left" alt="Realocity's Github Stats" src="github-readme-stats-blond-eta-32.vercel.app/api/api?username=Realocity&show_icons=true&hide_border=true" />
 
 </details>
 
 
-
+<details>
+  <summary>:zap: Language Stats</summary>
 
 [![Top Langs](https://github-readme-stats.realocity.vercel.app/api/top-langs/?username=Realocity&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
 
 [website]: https://realocity.github.io
 [twitter]: https://twitter.com/Shubham29887441
