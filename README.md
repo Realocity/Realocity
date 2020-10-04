@@ -130,7 +130,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats-blond-eta-32.vercel.app/api/top-langs/?username=Realocity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.realocity.vercel.app/api/top-langs/?username=Realocity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
