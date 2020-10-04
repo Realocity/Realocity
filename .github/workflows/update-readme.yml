@@ -14,6 +14,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ 3016b5c30b9ee3efde134bd4ffe91fb08740f3da }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Take a snap now Something will happen now!'
+          COMMIT_MSG: 'Take a sit Something will happen!'
