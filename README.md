@@ -127,7 +127,13 @@
 
 </details>
 
-[[![Top Langs](https://github-readme-stats-blond-eta-32.vercel.app/api/top-langs/?username=Realocity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+	
+[![Top Langs](https://github-readme-stats-blond-eta-32.vercel.app/api/top-langs/?username=Realocity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</details>
 
 [website]: https://realocity.github.io
 [twitter]: https://twitter.com/Shubham29887441
