@@ -1,4 +1,4 @@
-<img align='center' src="https://media1.tenor.com/images/c07a0e54601516dbf8b399832636507a/tenor.gif?itemid=13765417" width='220'>
+<img align='center' src="https://media1.tenor.com/images/c07a0e54601516dbf8b399832636507a/tenor.gif?itemid=13765417" width='820'>
 
 ### Hi there, I'm SHUBHAM otherwise known as RAJVEER 🏄🏻‍♂️ [Realocity][website]
 
@@ -129,6 +129,8 @@
 
 
 <details>
+
+<summary>:zap: Language Stats</summary>
 
 [![Top Langs](https://github-readme-stats-blond-eta-32.vercel.app/api/top-langs/?username=Realocity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
