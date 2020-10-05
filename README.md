@@ -52,6 +52,10 @@
 <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+<a href="https://wa.me/917058588117">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp;
+
 <a href="spotify:user:sofobedvn7qhd3k7idb730nrm:playlist:2ftxjN2rn0btlpNFZNtAln">
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -101,10 +105,6 @@
   <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-  
-
-
-
 
 <!--END_SECTION:activity-->
 </details>
