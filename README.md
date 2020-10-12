@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="">
+<a href="https://www.reddit.com/user/Realocity">
 <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
 </a>&nbsp;&nbsp;
 
