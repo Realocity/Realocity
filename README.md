@@ -94,7 +94,16 @@
 <br />
 <br />
 
+```cpp
+#include <iostream>
 
+int main(){
+    std::cout << "Hello, World" << std::endl;
+}
+
+```
+
+<br />
 
 <!--START_SECTION:waka-->
 
