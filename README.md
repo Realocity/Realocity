@@ -23,9 +23,9 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="390" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-<a href="https://pronouns.vercel.app" title="">
-  <img src="https://pronouns.vercel.app/Connect with me:?gradient=grapefruit%20sunset" width="556" height="64" alt="Connect with me:">
-</a> 
+
+  <img src="https://pronouns.vercel.app/Connect with me:?gradient=grapefruit%20sunset" width="356" height="64" alt="Connect with me:">
+
 
 <p align='center'>
 
