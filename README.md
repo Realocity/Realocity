@@ -117,8 +117,11 @@ int main(){
    <!--START_SECTION:activity-->
 
    1. 🎉 Realocity/Realocity 23 commits
+   <br/>
    2. 🗣 Realocity/realocity.github.io 7 commits
+   <br/>
    3. 🎉 Realocity/Grocery-Market 4 commits
+   <br/>
    4. ❗️ Realocity/TIC-TAC-TEO-IN-C 3 commits
 
    <!--END_SECTION:activity-->
@@ -127,6 +130,7 @@ int main(){
 
 <details>
   <summary>:zap: Github Stats</summary>
+  <br/>
 
   ![Realocity's github stats](https://github-readme-stats-blond-eta-32.vercel.app/api?username=Realocity&show_icons=true)
 
@@ -135,6 +139,7 @@ int main(){
 
 <details>
   <summary>:zap: Language Stats</summary>
+  <br/>
 
 [![Top Langs](https://github-readme-stats.realocity.vercel.app/api/top-langs/?username=Realocity&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -142,6 +147,7 @@ int main(){
 
 <details>
   <summary>:zap: Multi Languages Stats</summary>
+  <br/>
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realocity&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos"/>
