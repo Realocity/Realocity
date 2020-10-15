@@ -115,13 +115,10 @@ int main(){
   <summary>:zap: Recent Activity</summary>
    <br/>
    <!--START_SECTION:activity-->
-
+   <br/>
    1. 🎉 Realocity/Realocity 23 commits
-   <br/>
    2. 🗣 Realocity/realocity.github.io 7 commits
-   <br/>
    3. 🎉 Realocity/Grocery-Market 4 commits
-   <br/>
    4. ❗️ Realocity/TIC-TAC-TEO-IN-C 3 commits
 
    <!--END_SECTION:activity-->
