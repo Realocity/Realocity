@@ -135,6 +135,14 @@ int main(){
 
 </details>
 
+<details>
+  <summary>:zap: Multi Languages Stats</summary>
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBrLloyd&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+</div>
+</details>
+
 [website]: https://realocity.github.io
 [twitter]: https://twitter.com/Shubham29887441
 [instagram]: https://www.instagram.com/hashtag_shubham_sapkal/
