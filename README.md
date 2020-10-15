@@ -123,7 +123,9 @@ int main(){
 <details>
   <summary>:zap: Github Stats</summary>
 
-  ![Realocity's github stats](https://github-readme-stats-blond-eta-32.vercel.app/api?username=Realocity&show_icons=true)
+<div align="center">
+![Realocity's github stats](https://github-readme-stats-blond-eta-32.vercel.app/api?username=Realocity&show_icons=true)
+</div>
 
 </details>
 
@@ -131,7 +133,9 @@ int main(){
 <details>
   <summary>:zap: Language Stats</summary>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.realocity.vercel.app/api/top-langs/?username=Realocity&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 </details>
 
@@ -139,7 +143,7 @@ int main(){
   <summary>:zap: Multi Languages Stats</summary>
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBrLloyd&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realocity&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos"/>
 </div>
 </details>
 
