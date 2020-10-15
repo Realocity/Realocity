@@ -2,7 +2,7 @@
 
 
 <a href="https://pronouns.vercel.app" title="Hi there,">
-  <img src="https://pronouns.vercel.app/I'm SHUBHAM otherwise known as RAJVEER 🏄🏻‍♂️ [Realocity][website]?gradient=grapefruit%20sunset" width="256" height="64" alt="I'm SHUBHAM otherwise known as RAJVEER 🏄🏻‍♂️ [Realocity][website]">
+  <img src="https://pronouns.vercel.app/I'm SHUBHAM otherwise known as RAJVEER 🏄🏻‍♂️ [Realocity][website]?gradient=grapefruit%20sunset" width="556" height="64" alt="I'm SHUBHAM otherwise known as RAJVEER 🏄🏻‍♂️ [Realocity][website]">
 </a>
 
 
