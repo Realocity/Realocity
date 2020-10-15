@@ -123,9 +123,7 @@ int main(){
 <details>
   <summary>:zap: Github Stats</summary>
 
-<div align="center">
-![Realocity's github stats](https://github-readme-stats-blond-eta-32.vercel.app/api?username=Realocity&show_icons=true)
-</div>
+  ![Realocity's github stats](https://github-readme-stats-blond-eta-32.vercel.app/api?username=Realocity&show_icons=true)
 
 </details>
 
@@ -133,9 +131,7 @@ int main(){
 <details>
   <summary>:zap: Language Stats</summary>
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.realocity.vercel.app/api/top-langs/?username=Realocity&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 </details>
 
