@@ -22,6 +22,9 @@
 ```
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="390" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+
+---
+
 ### Connect with me: 
 
 <p align='center'>
@@ -70,6 +73,7 @@
 
 
 <br />
+---
 
 ### Languages and Tools:
 
@@ -94,7 +98,8 @@
 <br />
 <br />
 
-```cpp
+```
+cpp
 #include <iostream>
 
 int main(){
@@ -102,8 +107,6 @@ int main(){
 }
 
 ```
-
-<br />
 
 <!--START_SECTION:waka-->
 
