@@ -98,8 +98,7 @@
 <br />
 <br />
 
-```
-cpp
+```cpp
 #include <iostream>
 
 int main(){
