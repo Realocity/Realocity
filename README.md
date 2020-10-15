@@ -113,13 +113,14 @@ int main(){
 ---
 <details>
   <summary>:zap: Recent Activity</summary>
-
+   <br/>
    <!--START_SECTION:activity-->
-   1. 🎉 Merged PR [#188](https://github.com/madlabsinc/mevn-cli/pull/188) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-   2. 🗣 Commented on [#192](https://github.com/madlabsinc/mevn-cli/issues/192) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-   3. 🎉 Merged PR [#192](https://github.com/madlabsinc/mevn-cli/pull/192) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-   4. ❗️ Closed issue [#191](https://github.com/madlabsinc/mevn-cli/issues/191) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-   5. 🗣 Commented on [#191](https://github.com/madlabsinc/mevn-cli/issues/191) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+
+   1. 🎉 Realocity/Realocity 23 commits
+   2. 🗣 Realocity/realocity.github.io 7 commits
+   3. 🎉 Realocity/Grocery-Market 4 commits
+   4. ❗️ Realocity/TIC-TAC-TEO-IN-C 3 commits
+
    <!--END_SECTION:activity-->
 </details>
 
