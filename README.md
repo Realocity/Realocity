@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://t.me/Smart_S54">
+<a href="https://t.me/Realocity">
 <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 
@@ -154,4 +154,4 @@ int main(){
 [twitter]: https://twitter.com/Shubham29887441
 [instagram]: https://www.instagram.com/hashtag_shubham_sapkal/
 [linkedin]: https://www.linkedin.com/in/hash-tag-shubham-sapkal/
-[Telegram]: https://t.me/Smart_S54
+[Telegram]: https://t.me/Realocity
