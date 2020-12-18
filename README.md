@@ -115,8 +115,8 @@ int main(){
   <summary>:zap: Recent Activity</summary>
    <br/>
    <!--START_SECTION:activity-->
-   
-   1. 🎉 Realocity/Realocity 23 commits
+1. 🎉 Merged PR [#1](https://github.com//Realocity/Book-My-Resource/pull/1) in [Realocity/Book-My-Resource](https://github.com//Realocity/Book-My-Resource)
+2. 💪 Opened PR [#1](https://github.com//Realocity/Book-My-Resource/pull/1) in [Realocity/Book-My-Resource](https://github.com//Realocity/Book-My-Resource)
    2. 🗣 Realocity/realocity.github.io 7 commits
    3. 🎉 Realocity/Grocery-Market 4 commits
    4. ❗️ Realocity/TIC-TAC-TEO-IN-C 3 commits
