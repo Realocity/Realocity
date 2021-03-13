@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://twitter.com/Shubham29887441">
+<a href="https://twitter.com/Tweet__Shubham">
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 
@@ -115,11 +115,11 @@ int main(){
   <summary>:zap: Recent Activity</summary>
    <br/>
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Realocity/Book-My-Resource/pull/1) in [Realocity/Book-My-Resource](https://github.com//Realocity/Book-My-Resource)
-2. 💪 Opened PR [#1](https://github.com//Realocity/Book-My-Resource/pull/1) in [Realocity/Book-My-Resource](https://github.com//Realocity/Book-My-Resource)
-   2. 🗣 Realocity/realocity.github.io 7 commits
-   3. 🎉 Realocity/Grocery-Market 4 commits
-   4. ❗️ Realocity/TIC-TAC-TEO-IN-C 3 commits
+   1. 🎉 Merged PR [#1](https://github.com//Realocity/Book-My-Resource/pull/1) in [Realocity/Book-My-Resource](https://github.com//Realocity/Book-My-Resource)
+   2. 💪 Opened PR [#1](https://github.com//Realocity/Book-My-Resource/pull/1) in [Realocity/Book-My-Resource](https://github.com//Realocity/Book-My-Resource)
+   3. 🗣 Realocity/realocity.github.io 7 commits
+   4. 🎉 Realocity/Grocery-Market 4 commits
+   5. ❗️ Realocity/TIC-TAC-TEO-IN-C 3 commits
    <!--END_SECTION:activity-->
 </details>
 
