@@ -40,9 +40,6 @@
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.facebook.com/shubham.sapkal.7146/">
-<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 
 <br>
 
@@ -54,7 +51,7 @@
 <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://wa.me/917058588117">
+<a href="https://wa.me/918806178117">
 <img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 
