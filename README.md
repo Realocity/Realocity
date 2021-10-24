@@ -128,3 +128,6 @@ int main(){
 [instagram]: https://www.instagram.com/hashtag_shubham_sapkal/
 [linkedin]: https://www.linkedin.com/in/hash-tag-shubham-sapkal/
 [Telegram]: https://t.me/Realocity
+
+<!-- https://github.com/Realocity/github-readme-activity-graph -->
+<a href="https://github.com/Realocity/github-readme-activity-graph"><img alt="Realocity's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
