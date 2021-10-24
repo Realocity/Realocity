@@ -18,12 +18,10 @@
 
 ```
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source Projects
 - ⚡ Fun fact: I love to spend my time on New Projects
-- 🕶 This is the place where I spent my time mostly 🤣
-- 📇 I enjoy working with others and reaching personal goals 😊
+- 📇 I enjoy working with others and reaching personal goals
 ```
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
