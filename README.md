@@ -2,7 +2,7 @@
     <img align='center' src="https://media1.tenor.com/images/c07a0e54601516dbf8b399832636507a/tenor.gif?itemid=13765417" width='620'>
 </p>
 
-### Hi there, I'm SHUBHAM SAPKAL 🏄🏻‍♂️ [Realocity][website]
+### Hi there, I'm SHUBHAM SAPKAL 🍁 [Realocity][website]
 
 ![Website](https://img.shields.io/website?down_color=orange&down_message=offline&label=Realocity&style=for-the-badge&up_color=black&up_message=online&url=https%3A%2F%2Frealocity.github.io)
 
@@ -14,13 +14,13 @@
   <a href="https://github.com/Realocity/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-## I'm a Multiplatfrom Application developer
+## I'm a Cross platfrom Application developer
 
 ```
-- I'm a MCA Student
-- I’m currently learning Flutter
+- I'm a MCA Student at Pune University
+- I’m currently learning React
 - I’m looking to collaborate with other content creators
-- I love to listen all types of music
+- I love to listen verious types of music
 - I enjoy working with others and reaching personal goals
 ```
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
